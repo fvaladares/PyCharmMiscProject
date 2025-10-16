@@ -51,6 +51,7 @@ def main():
                    0.1,
                    50.0)
 
+    # altere o eixo z para ampliar ou reduzir a profundidade.
     glTranslatef(0.0,
                  0.0,
                  -10)
